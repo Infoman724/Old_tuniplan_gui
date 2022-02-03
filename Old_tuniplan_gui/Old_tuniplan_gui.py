@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter.messagebox import *
-
+#ПРИМЕЧАНИЕ:с пятницей произогел какойто баг и не хватило одной строчки но надеюсь это не критично
 def failist_sõnastikusse():
         tund_kirjeldus={}
         f = open("tundid_kirjeldused.txt","r")
