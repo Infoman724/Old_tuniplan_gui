@@ -1,0 +1,52 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>639cb970-2467-431e-ad88-7eaf070b9b7e</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Old_tuniplan_gui.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Old_tuniplan_gui</Name>
+    <RootNamespace>Old_tuniplan_gui</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Old_tuniplan_gui.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data.png" />
+    <Content Include="eng.png" />
+    <Content Include="fizra.png" />
+    <Content Include="history.png" />
+    <Content Include="hour.png" />
+    <Content Include="kemia.png" />
+    <Content Include="kunst.png" />
+    <Content Include="maths.png" />
+    <Content Include="multimedia.png" />
+    <Content Include="OS.png" />
+    <Content Include="phs.png" />
+    <Content Include="programmerimine.png" />
+    <Content Include="rus.png" />
+    <Content Include="service.png" />
+    <Content Include="tundid_kirjeldused.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

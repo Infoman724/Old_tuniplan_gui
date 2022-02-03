@@ -1,0 +1,18 @@
+multimedia.png:Ruum A-218 Pant Gert
+programmerimine.png: E07 Marina Oleinik
+data.png: E10 Irina Merkulova
+eng.png: Ruum B-138 Poskotinova Olga
+eng group 2: Ruum B-148 Zestjakova Elina
+OS.png: Ruum A-243 Shkarbanova Lury
+Eesti keel Gruup 1: Ruum B-226 Irina Peetrimägi
+Eesti Keel Gruup 2: Ruum B-234 Olesja Ojamäe
+history.png: Ruum B-238 Speek Mari
+kunst.png: Ruum B-232 Norkevitð Aleskandra 
+service.png: Ruum B-003 Schumaan Sirje
+rus.png: Ruum B-221 Mihhailova Ljudmilla
+fizra.png: Võimla A Maksõmiv Maksim
+hour: E10 Marina Oleinik
+maths.png: B-133  Voronova Nadeþda
+programmerimine inglise keeles: A241 Voronetskaya
+phs.png: B131 Tiidt Anna
+kemia.png:B144 Pesetskaja Svetlana
